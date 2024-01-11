@@ -152,7 +152,7 @@ body{
 }
 
 .not-found img{
-    width: 0%;
+    width: 100%;
 }
 
 .not-found p{
